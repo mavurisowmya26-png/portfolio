@@ -1,0 +1,46 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background-color: #f5f7fb;
+    color: #333;
+    line-height: 1.6;
+}
+header {
+    background-color: #1e3a8a;
+    color: white;
+    padding: 20px;
+    text-align: right;
+}
+
+header nav a {
+    color: white;
+    margin: 10px;
+    font-weight: bold;
+}
+
+div {
+    padding: 40px 40px;
+    margin: auto;
+}
+
+#home {
+    text-align: center;
+}
+#about ul {
+    margin-top: 10px;
+    padding-left: 20px;
+}
+
+#skills li {
+    font-weight: bold;
+}
+#projects div {
+    background-color: white;
+    padding: 20px;
+}
